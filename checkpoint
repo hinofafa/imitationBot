@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\WinPython-64bit-3.5.3.1Qt5\\CS224n\\imitationBot\\model.tflearn"
+all_model_checkpoint_paths: "D:\\WinPython-64bit-3.5.3.1Qt5\\CS224n\\imitationBot\\model.tflearn"
